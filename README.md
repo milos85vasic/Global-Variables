@@ -33,8 +33,8 @@ To build application perform the following steps:
 
 The following dependencies needed in order to be able to build the application:
 
-- C++ installed for the platform
-- Cmake, Make and proper C++ compiler
+- C++ (CPP 17) installed for your platform
+- Cmake (version >= 3.16), Make and proper C++ compiler
 - Boost library version >= 1.71.0.
 
 ## Example JSON configuration
