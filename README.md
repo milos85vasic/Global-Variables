@@ -2,7 +2,7 @@
 
 Simple native application for reading global variables from global JSON configuration file.
 
-## Ho wto use it
+## How to use it
 
 Application can be used like this:
 
@@ -37,7 +37,7 @@ The following dependencies needed in order to be able to build the application:
 - Cmake, Make and proper C++ compiler
 - Boost library version >= 1.71.0.
 
-# Example JSON configuration
+## Example JSON configuration
 
 The following example illustrate valid JSON variables configuration: 
 
