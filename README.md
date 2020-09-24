@@ -1,5 +1,7 @@
 # Global Variables
 
+STATUS: UNDER DEVELOPMENT
+
 Simple native application for reading global variables from global JSON configuration file.
 
 ## How to use it
