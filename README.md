@@ -110,7 +110,7 @@ The following example illustrate valid JSON variables configuration:
         }
       },
       "NETWORK": {
-        "NAME": "postmaster_network",
+        "NAME": "server_factory_network",
         "SUBNET": "172.18.0.0/16"
       }
     }
